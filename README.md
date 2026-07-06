@@ -2,7 +2,6 @@
 
 <p align="center">
   Computer Science graduate, master's student at the University of Crete, and aspiring software engineer.
-  I enjoy building practical software systems across desktop, web, data, and semantic technologies.
 </p>
 
 <p align="center">
@@ -16,9 +15,7 @@
 </p>
 
 ## About me
-
-I enjoy working across the software-development stack, from backend services and database-driven applications to user interfaces, data-processing workflows, and semantic web systems. I also have an interest in UI/UX design. 
-
+I enjoy building practical software systems across desktop, web, data, and semantic technologies.
 ## Technology stack
 
 ### Languages
